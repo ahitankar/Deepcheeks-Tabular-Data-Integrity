@@ -2,7 +2,7 @@
 
 This repository consist of all the Tabular Data Checks available in deepchecks library for checking the data quality.
 
-1. [Conflicting Labels Check](Deepcheeks-Tabular-Data-Integrity/blob/main/Conflicting%20Labels.ipynb)
+1. [Conflicting Labels Check](/Deepcheeks-Tabular-Data-Integrity/blob/main/Conflicting%20Labels.ipynb)
 2. Data Duplicates Check
 3. Dominant Frequency Change Check
 4. Is Single Value Check
